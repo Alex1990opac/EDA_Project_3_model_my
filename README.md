@@ -1,5 +1,5 @@
 
-![kart](https://github.com/Alex1990opac/EDA_Project_3_my_model/blob/master/1613680432_43-p-fon-dlya-prezentatsii-programmirovanie-59.jpg)
+![kart](https://github.com/Alex1990opac/EDA_Project_3_model_my/blob/master/1613680432_43-p-fon-dlya-prezentatsii-programmirovanie-59.jpg)
 # <center> Разведовательный анализ данных </center>
 ## Оглавление
 1. [Описание проекта](#описание-проекта)
